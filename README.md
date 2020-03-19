@@ -1,6 +1,6 @@
 # noonbiteun-blog
 
-English | [简体中文](https://github.com/noonbiteun/noonbiteun-blog/blob/master/README-.md)
+English | [简体中文](https://github.com/noonbiteun/noonbiteun-blog/blob/master/README-CN.md)
 
 ---
 
