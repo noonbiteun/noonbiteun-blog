@@ -1,27 +1,28 @@
 # noonbiteun-blog
 
-English | [简体中文](https://github.com/noonbiteun/noonbiteun-blog/blob/master/README-CN.md)
+简体中文 | [English](https://github.com/noonbiteun/noonbiteun-blog/blob/master/README.md)
 
 ---
 
-## 📌Introduction
+## 📌简介
 
-This repo is based on Issues feature.
+这是一个基于 Issues 特点的仓库。
 
-In the repo, we replaces blog-paper with issue which is simplier and timesaving to create. 
+在此仓库中，我们使用 issue 代替博文，这样就能更方便、更省时的创作。 
 
-## ✨Features
+## ✨特性
 
-* replace blog-paper with issue
-* classify tag with label
-* organize category with project
+* 使用 issue 代替博文
+* 使用 label 划分标签
+* 使用 project 组织类别
 
-## 🕹Instruction
+## 🕹使用说明
 
-[『category』](https://github.com/noonbiteun/Blog/projects) | 
-[『tag』](https://github.com/noonbiteun/noonbiteun-blog/labels) | 
-[『blog』](https://github.com/noonbiteun/noonbiteun-blog/issues?q=is%3Aopen+is%3Aissue+label%3ABlog)
+[『类别』](https://github.com/noonbiteun/Blog/projects) | 
+[『标签』](https://github.com/noonbiteun/noonbiteun-blog/labels) | 
+[『文章』](https://github.com/noonbiteun/noonbiteun-blog/issues?q=is%3Aopen+is%3Aissue+label%3ABlog)
 
-[『🔎Search Interface』](https://github.com/noonbiteun/noonbiteun-blog/issues)
+[『🔎搜索接口』](https://github.com/noonbiteun/noonbiteun-blog/issues)
 
-> if you want to know [more info](https://help.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests) about search interface.
+> 如果你想了解关于搜索接口的更多消息 [更多消息。](https://help.github.com/en/github/searching-for-information-on-github/searching-issues-and-pull-requests)
+
