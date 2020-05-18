@@ -27,5 +27,6 @@
 [『文章』](https://github.com/noonbiteun/noonbiteun-blog/issues?q=is%3Aopen+is%3Aissue+label%3ABlog)
 [『🔎搜索』](https://github.com/noonbiteun/noonbiteun-blog/issues)
 
-* 实用指南系列
+* [实用指南系列](https://github.com/noonbiteun/noonbiteun-blog/issues?q=is%3Aissue+is%3Aopen+%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97)
+* [每天学一个命令系列](https://github.com/noonbiteun/noonbiteun-blog/issues?q=is%3Aissue+is%3Aopen+%E6%AF%8F%E5%A4%A9%E5%AD%A6%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4)
 
